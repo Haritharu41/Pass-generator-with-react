@@ -1,5 +1,6 @@
 # Random Password generator
-Here's the features: 🚀
+<h3>Here's the features: 🚀  </h3>
+
 
 ✅ Customise length of passsword<br>
 ✅ We can select number and special character<br>
